@@ -18,7 +18,7 @@ My mentor is Raja Kushalnagar.
 
 My project is Sign Detection where we hope to improve the application for future use on videoconferencing platforms such as Zoom, FaceTime, and Google Hangouts. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/FinalReport.pdf)
 
 ## My Blog
 
